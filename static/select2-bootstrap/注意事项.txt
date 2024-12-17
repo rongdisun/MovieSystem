@@ -1,0 +1,2 @@
+这里的bootstrap不是官方的那个bootstrap，
+而是一个select2-bootstrap.css主题插件
